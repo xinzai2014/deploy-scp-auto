@@ -14,6 +14,15 @@
     "inquirer": "^8.2.0",
     "scp": "^0.0.3"
   },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
+  "homepage": "https://github.com/xinzai2014/deploy-scp-auto",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xinzai2014/deploy-scp-auto.git"
+  },
   "keywords": [
     "scp",
     "inquirer"
