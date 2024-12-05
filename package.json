@@ -1,6 +1,6 @@
 {
   "name": "deploy-scp-auto",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "auto deploy by scp",
   "bin": {
     "deploy-scp-auto": "bin/index.js"
